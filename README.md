@@ -37,3 +37,6 @@ This project aims to analyze the data to understand the problem and build a mach
 ![Executive Summary](https://github.com/student423/Credit-Card-Fraud-Analysis/blob/main/fraud%20analysis%20dashboard-1.jpg)
 
 ![Technical Deep Dive](https://github.com/student423/Credit-Card-Fraud-Analysis/blob/main/fraud%20analysis%20dashboard-2.jpg)
+
+### **Power BI Project Link**
+[One Drive](https://1drv.ms/u/c/c827aed1b7cc01ac/Edb5V3DNYSpNitWRfKx8Le8B9Xt4PQ8D_SAbfDLoFy918Q?e=cXW2eC)
