@@ -35,6 +35,9 @@ This project aims to analyze the data to understand the problem and build a mach
 ### **Project Link**
 [file link](https://1drv.ms/u/c/c827aed1b7cc01ac/Edb5V3DNYSpNitWRfKx8Le8B9Xt4PQ8D_SAbfDLoFy918Q?e=EPha36)
 
+- ⚠️ Note: Power BI (.pbix) files cannot be viewed directly in the browser.  
+Please download the file from the link and open it in Power BI Desktop.
+
 
 ### **Dashboard Visuals**
 
@@ -42,5 +45,5 @@ This project aims to analyze the data to understand the problem and build a mach
 
 ![Technical Deep Dive](https://github.com/student423/Credit-Card-Fraud-Analysis/blob/main/fraud%20analysis%20dashboard-2.jpg)
 
-##Thank You
+- Thank You 
 
