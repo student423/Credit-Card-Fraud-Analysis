@@ -34,8 +34,6 @@ This project aims to analyze the data to understand the problem and build a mach
 
 ### **Dashboard Visuals**
 
-[Executive Summary]
-(https://github.com/student423/Credit-Card-Fraud-Analysis/blob/main/fraud%20analysis%20dashboard-1.jpg)
+[Executive Summary](https://github.com/student423/Credit-Card-Fraud-Analysis/blob/main/fraud%20analysis%20dashboard-1.jpg)
 
-[Technical Deep Dive]
-(https://github.com/student423/Credit-Card-Fraud-Analysis/blob/main/fraud%20analysis%20dashboard-2.jpg)
+[Technical Deep Dive](https://github.com/student423/Credit-Card-Fraud-Analysis/blob/main/fraud%20analysis%20dashboard-2.jpg)
