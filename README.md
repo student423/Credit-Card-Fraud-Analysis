@@ -33,7 +33,9 @@ This project aims to analyze the data to understand the problem and build a mach
 - A large number of fraudulent transactions occurred at specific times and were concentrated within a certain amount range.
 
 ### **Dashboard Visuals**
-*(Add your dashboard screenshots here)*
 
-![Executive Summary](https://github.com/student423/Credit-Card-Fraud-Analysis/blob/main/fraud%20analysis%20dashboard-1.jpg)
-![Technical Deep Dive](https://github.com/student423/Credit-Card-Fraud-Analysis/blob/main/fraud%20analysis%20dashboard-2.jpg)
+[Executive Summary]
+(https://github.com/student423/Credit-Card-Fraud-Analysis/blob/main/fraud%20analysis%20dashboard-1.jpg)
+
+[Technical Deep Dive]
+(https://github.com/student423/Credit-Card-Fraud-Analysis/blob/main/fraud%20analysis%20dashboard-2.jpg)
